@@ -57,6 +57,9 @@ Used knowledge of Python and unsupervised learning to predict if cryptocurrencie
 
 ![scatter_2](https://github.com/svafaeva93/CryptoClustering/assets/124627601/4d798dc9-f677-439c-9d7c-029d2f54ea81)
 
+  * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+
+  * **Answer:** Based on the elbow curves, using less features yielded similar results as the original model, the best k-value for both was 4. The scatter plot data using PCA differed from the original plot. Using fewer features resulted in tighter clusters and more entries in Cluster 0 and 3. 
 
 
 
