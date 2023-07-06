@@ -46,12 +46,16 @@ Used knowledge of Python and unsupervised learning to predict if cryptocurrencie
 
 * Composite plot to contrast elbow curves
   
-![composite_plot](https://github.com/svafaeva93/CryptoClustering/assets/124627601/7a2af482-afdd-4f2c-9e21-144125e88467)
+![elbow_plot_1](https://github.com/svafaeva93/CryptoClustering/assets/124627601/45782e17-02ca-439d-8981-b2d6ac89c25f)
+
+![elbow_plot_2](https://github.com/svafaeva93/CryptoClustering/assets/124627601/f62a736a-343a-4e83-80db-bbc64a485fc6)
 
 * Composite plot to contrast scatter plots
 
-![composite_plot2](https://github.com/svafaeva93/CryptoClustering/assets/124627601/71c276ba-3427-4366-adee-a96b48bc2c35)
 
+![scatter_plot_1](https://github.com/svafaeva93/CryptoClustering/assets/124627601/b1b3fa61-61b6-49c1-9c56-478b99c75d38)
+
+![scatter_2](https://github.com/svafaeva93/CryptoClustering/assets/124627601/4d798dc9-f677-439c-9d7c-029d2f54ea81)
 
 
 
