@@ -59,7 +59,7 @@ Used knowledge of Python and unsupervised learning to predict if cryptocurrencie
 
   * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-  * **Answer:** Based on the elbow curves, using less features yielded similar results as the original model, the best k-value for both was 4. The scatter plot data using PCA differed from the original plot. Using fewer features resulted in tighter clusters and more entries in Cluster 0 and 3. 
+  * **Answer:** Based on the elbow curves, using less features yielded similar results as the original model, the best k-value for both was 4. The scatter plot data using PCA differed from the original plot. Although having many feautures presented may sound optimal, sometimes there is a tendency to overfit the data. Using fewer features in the plot on the right seems to be a better way of presenting the clusters in a more distiguished manner. For example, cluster 0 and 1 seen in the original plot can barely be distiguished as different clusters as they are located in similar coordinates. However, in the second plot on the right using PCA spread those two clusters apart.  Similarly, cluster 1 and 2 are well distinguished in the plot on the right side. 
 
 
 
