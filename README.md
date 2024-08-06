@@ -1,6 +1,6 @@
 # CryptoClustering
-
-
+[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2074441%2Fbusiness-economy&psig=AOvVaw0bv4QwmCclxqZHwds1n8So&ust=1723001886412000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNCurra434cDFQAAAAAdAAAAABAE)![image](https://github.com/user-attachments/assets/7d04bfd8-ba38-4a1b-8bc4-6933c8eaafec)
 
 Used knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
