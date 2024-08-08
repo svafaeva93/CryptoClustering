@@ -61,7 +61,21 @@ This project involved creating a machine learning model that grouped cryptocurre
 
   * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-  * **Answer:** Based on the elbow curves, using less features yielded similar results as the original model, the best k-value for both was 4. The scatter plot data using PCA differed from the original plot. Although having many feautures presented may sound optimal, sometimes there is a tendency to overfit the data. Using fewer features in the plot on the right seems to be a better way of presenting the clusters in a more distiguished manner. For example, cluster 0 and 1 seen in the original plot can barely be distiguished as different clusters as they are located in similar coordinates. However, in the second plot on the right using PCA spread those two clusters apart.  Similarly, cluster 1 and 2 are well distinguished in the plot on the right side. 
+  * **Answer:** Based on the elbow curves, using less features yielded similar results as the original model, the best k-value for both was 4. The scatter plot data using PCA differed from the original plot. Although having many feautures presented may sound optimal, sometimes there is a tendency to overfit the data. Using fewer features in the plot on the right seems to be a better way of presenting the clusters in a more distiguished manner. For example, cluster 0 and 1 seen in the original plot can barely be distiguished as different clusters as they are located in similar coordinates. However, in the second plot on the right using PCA spread those two clusters apart.  Similarly, cluster 1 and 2 are well distinguished in the plot on the right side.
+
+## Conclusion 
+
+- Market Structure Insight: The presence of four distinct clusters suggests that the 41 cryptocurrencies can be grouped into four different segments based on their similar characteristics. Each cluster represents a group of cryptocurrencies that behave similarly or share common features.
+
+- Diverse Investment Opportunities: By identifying four clusters, you highlight that the cryptocurrency market is not homogenous. Different clusters may represent different levels of risk, growth potential, market behavior, or utility (e.g., stablecoins, altcoins, high-volatility assets).
+
+- Strategy Development: The four clusters can be used to develop different investment strategies. For instance, a conservative investor might focus on cryptocurrencies in a cluster characterized by lower volatility, while a risk-tolerant investor might prefer those in a high-volatility cluster.
+
+- Risk Management: Understanding the characteristics of each cluster allows for better risk management. For instance, if one cluster is highly sensitive to market conditions, a portfolio manager might choose to hedge against potential losses by balancing the portfolio with assets from more stable clusters.
+
+- Market Prediction: If historical data is used for clustering, the identified clusters might help in predicting future trends or behaviors of the cryptocurrencies within each cluster.
+
+In summary, segmenting the 41 cryptocurrencies into 4 clusters using K-means and visualizing them in a scatter plot provided a structured way to understand the diversity within the cryptocurrency market. This finding is significant as it aids in portfolio diversification, risk management, strategy formulation, and market analysis, ultimately leading to more informed investment decisions.
 
 
 
